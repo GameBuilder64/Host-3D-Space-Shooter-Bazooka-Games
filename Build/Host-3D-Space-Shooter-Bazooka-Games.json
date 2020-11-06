@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "3D Space Shooter Bazooka",
+"productVersion": "0.1",
+"dataUrl": "Host-3D-Space-Shooter-Bazooka-Games.data.unityweb",
+"wasmCodeUrl": "Host-3D-Space-Shooter-Bazooka-Games.wasm.code.unityweb",
+"wasmFrameworkUrl": "Host-3D-Space-Shooter-Bazooka-Games.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
